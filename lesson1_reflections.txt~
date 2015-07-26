@@ -10,18 +10,3 @@ Why do you think some version control systems, like Git, allow saving
 multiple files in one commit, while others, like Google Docs, treat
 each file separately?
 Because we are thinking in terms interelated files, meaning projects.
-
-How can you use the commands git log and git diff to view the history of files?
-Firts, tracing the history. Second, comparing the changes in two versions.
-
-How might using version control make you more confident to make
-changes that could break something?
-Once you know the history of the program is traced yuo feel covered.
-
-Now that you have your workspace set up, what do you want to try using
-Git for?
-Programming.
-
-
-
-
