@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+Just to git init. No commit is created and not file is tracked. Only the
+.git directory is created.
+
+
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+it is just a bunch of files whose change are being tracked.
